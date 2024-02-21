@@ -5,6 +5,13 @@ body {
   line-height:1.5;
   background-color:yellow !important;
 }
+p {
+    font-family:Times New Roman, sans-serif;
+    line-height: 1.6;
+    text-align:center;
+    color:black
+    margin-bottom:10 px; /* відступ вниз */
+  }
 ol, ul {
   list-style: none;
 }
