@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <style>
 head {
-    text:center;
+    text-align:center;
 }
 body {
   font-family:Times New Roman, sans-serif;
-  text-align: center;
-  font-size: 17 px;
+  text-align:center;
   line-height: 1.5;
-  background-color: yelow;
+  background-color:yellow;
 }
 ol, ul {
-    list-style: none;
+    list-style:none;
 }
 img {
-  margin-left: auto; 
-  margin-right: auto; 
+  margin-left:auto; 
+  margin-right:auto; 
 }
 h2 {
   color:black;
@@ -23,6 +22,6 @@ h2 {
 }
 h6 {
   font-style: italic;
-  text:center;
+  text-align:center;
 }
 </style>
