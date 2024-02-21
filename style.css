@@ -1,13 +1,21 @@
 <!DOCTYPE html>
 <style>
+head {
+    text-align: center;
+}
 body {
   font-family:Times New Roman, sans-serif;
-  background-color:green;
+  backgroundcolor:green;
 }
 img {
   display: block; 
   margin-left: auto; 
   margin-right: auto; 
+}
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 h2 {
   color:black;
