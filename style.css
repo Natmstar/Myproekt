@@ -1,25 +1,26 @@
 <style>
-head {
-    text-align:center;
-}
 body {
-  font-family:Times New Roman, sans-serif;
-  text-align:center;
+  font-family: Times New Roman, sans-serif;
+  text-align: center;
   line-height: 1.5;
-  background-color:yellow;
+  background-color: yellow;
 }
+
 ol, ul {
-    list-style:none;
+  list-style: none;
 }
+
 img {
-  margin-left:auto; 
-  margin-right:auto; 
+  margin-left: auto;
+  margin-right: auto;
 }
+
 h2 {
-  color:black;  
+  color: black;
 }
+
 h6 {
   font-style: italic;
-  text-align:center;
+  text-align: center;
 }
 </style>
