@@ -5,7 +5,10 @@ head {
 }
 body {
   font-family:Times New Roman, sans-serif;
-  backgroundcolor:green;
+  text-align: center;
+  font-size: 17 px;
+  line-height: 1.5;
+  background-color: yelow;
 }
 ol, ul {
     list-style: none;
@@ -15,7 +18,8 @@ img {
   margin-right: auto; 
 }
 h2 {
-  color:red;
+  color:black;
+  
 }
 h6 {
   font-style: italic;
