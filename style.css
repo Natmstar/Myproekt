@@ -1,26 +1,24 @@
 <!DOCTYPE html>
 <style>
 head {
-    text-align: center;
+    text:center;
 }
 body {
   font-family:Times New Roman, sans-serif;
   backgroundcolor:green;
 }
+ol, ul {
+    list-style: none;
+}
 img {
-  display: block; 
   margin-left: auto; 
   margin-right: auto; 
 }
-nav {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
 h2 {
-  color:black;
+  color:red;
 }
 h6 {
   font-style: italic;
+  text:center;
 }
 </style>
