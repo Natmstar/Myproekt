@@ -1,13 +1,29 @@
 <!DOCTYPE html>
+<html>
 <style>
 body {
-  font-family:Times New Roman, sans-serif;
-  background-color:green;
+  font-family: 'Times New Roman', sans-serif;
 }
+
+p {
+  font-family: sans-serif;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 h2 {
-  color:black;
+  color: black;
 }
+
 h6 {
   font-style: italic;
 }
 </style>
+</html>
