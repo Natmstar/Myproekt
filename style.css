@@ -3,17 +3,11 @@
 <style>
 body {
   font-family:'Times New Roman', sans-serif;
-}
-
-p {
-  font-family: sans-serif;
   color: green;
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Забезпечте висоту в 100% видимого вікна для вирівнювання по центру */
-  margin: 0; /* Видалення зовнішніх відступів */
 }
 
 ol, ul {
