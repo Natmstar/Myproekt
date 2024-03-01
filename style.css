@@ -1,30 +1,61 @@
 body {
   font-family: 'Times New Roman', sans-serif;
-  text-align: center;
-  line-height: 1.6;
-  background-color: #7aec7e;
+  background-color: gold;
 }
 
-p {
-  font-family: sans-serif;
+.container {
+  margin: 0 auto;
 }
 
-ol, ul {
+nav {
+  background-color: #007bff;
+  padding: 10px;
+}
+
+nav h2 {
+position: ;
+}
+
+nav ol {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
   list-style: none;
 }
 
+nav li {
+  
+}
+
+section {
+  margin: 20px;
+}
+
+.p {
+  font-family:'Times New Roman', Times, serif;
+  color: #000000;
+  text-align: center;
+}
+
 img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 h2 {
+font-family: italic;
   color: black;
+}
+
+.text h4 {
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
 }
 
 h6 {
   font-style: italic;
 }
-
-</style>
-</html>
